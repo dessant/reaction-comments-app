@@ -2,6 +2,9 @@
 
 [![Version](https://img.shields.io/npm/v/reaction-comments.svg?colorB=007EC6)](https://www.npmjs.com/package/reaction-comments)
 
+> This project is in maintenance mode, migrating to the version
+built on GitHub Actions is recommended: https://github.com/dessant/reaction-comments
+
 Reaction Comments is a GitHub App built with [Probot](https://github.com/probot/probot)
 that deletes reaction comments, such as +1, and encourages the use of GitHub
 reactions.
