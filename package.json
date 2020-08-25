@@ -5,10 +5,10 @@
   "author": "Armin Sebastian",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/dessant/reaction-comments.git",
+    "url": "https://github.com/dessant/reaction-comments-app.git",
     "type": "git"
   },
-  "bugs": "https://github.com/dessant/reaction-comments/issues",
+  "bugs": "https://github.com/dessant/reaction-comments-app/issues",
   "main": "src/index.js",
   "scripts": {
     "start": "probot run ./src/index.js",

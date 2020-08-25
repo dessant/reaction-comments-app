@@ -1,6 +1,5 @@
 # Reaction Comments
 
-[![Build Status](https://img.shields.io/travis/com/dessant/reaction-comments/master.svg)](https://travis-ci.com/dessant/reaction-comments)
 [![Version](https://img.shields.io/npm/v/reaction-comments.svg?colorB=007EC6)](https://www.npmjs.com/package/reaction-comments)
 
 Reaction Comments is a GitHub App built with [Probot](https://github.com/probot/probot)
@@ -42,7 +41,7 @@ or add it at the same file path to a repository named `.github`.
 The file can be empty, or it can override any of these default settings:
 
 ```yaml
-# Configuration for Reaction Comments - https://github.com/dessant/reaction-comments
+# Configuration for Reaction Comments - https://github.com/dessant/reaction-comments-app
 
 # Issues and pull requests with these labels accept reaction comments.
 # Set to `[]` to disable
@@ -76,7 +75,7 @@ instance of this app.
 
 ## License
 
-Copyright (c) 2018-2019 Armin Sebastian
+Copyright (c) 2018-2020 Armin Sebastian
 
 This software is released under the terms of the MIT License.
 See the [LICENSE](LICENSE) file for further information.

@@ -1,6 +1,6 @@
 A GitHub App that deletes +1 comments, and encourages the use of GitHub reactions.
 
-![](https://raw.githubusercontent.com/dessant/reaction-comments/master/assets/screenshot.png)
+![](https://raw.githubusercontent.com/dessant/reaction-comments-app/master/assets/screenshot.png)
 
 ## Supporting the Project
 
@@ -22,7 +22,7 @@ The app detects if a new comment consists solely of emojis and shortcodes used i
 Create `.github/reaction.yml` in the default branch to enable the app, or add it at the same file path to a repository named `.github`. The file can be empty, or it can override any of these default settings:
 
 ```yaml
-# Configuration for Reaction Comments - https://github.com/dessant/reaction-comments
+# Configuration for Reaction Comments - https://github.com/dessant/reaction-comments-app
 
 # Issues and pull requests with these labels accept reaction comments.
 # Set to `[]` to disable
