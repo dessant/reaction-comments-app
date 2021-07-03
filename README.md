@@ -2,23 +2,13 @@
 
 [![Version](https://img.shields.io/npm/v/reaction-comments.svg?colorB=007EC6)](https://www.npmjs.com/package/reaction-comments)
 
-> This project is in maintenance mode, migrating to the version
-built on GitHub Actions is recommended: https://github.com/dessant/reaction-comments
+> This project is no longer maintained, please migrate to [Reaction Comments](https://github.com/dessant/reaction-comments).
 
 Reaction Comments is a GitHub App built with [Probot](https://github.com/probot/probot)
 that deletes reaction comments, such as +1, and encourages the use of GitHub
 reactions.
 
 ![](assets/screenshot.png)
-
-## Supporting the Project
-
-The continued development of Reaction Comments is made possible
-thanks to the support of awesome backers. If you'd like to join them,
-please consider contributing with
-[Patreon](https://armin.dev/go/patreon?pr=reaction-comments&src=repo),
-[PayPal](https://armin.dev/go/paypal?pr=reaction-comments&src=repo) or
-[Bitcoin](https://armin.dev/go/bitcoin?pr=reaction-comments&src=repo).
 
 ## How It Works
 
@@ -29,7 +19,7 @@ or it is deleted immediately, if `reactionComment` is set to `false`.
 
 ## Usage
 
-1. **[Install the GitHub App](https://github.com/apps/reaction)**
+1. **[Install the GitHub App]()**
    for the intended repositories
 2. Create `.github/reaction.yml` based on the template below
 
@@ -78,7 +68,7 @@ instance of this app.
 
 ## License
 
-Copyright (c) 2018-2020 Armin Sebastian
+Copyright (c) 2018-2021 Armin Sebastian
 
 This software is released under the terms of the MIT License.
 See the [LICENSE](LICENSE) file for further information.
